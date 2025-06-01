@@ -258,6 +258,5 @@ Arithmetica can do some geometry:
 ## To-do List
 - Port complex functions other than `operator+` to C++
 - Rename `FractionCPP.hpp` and `Fraction.cpp` to better file names
-- Fix the algebraic parser (Memory leaks + add division)
-- Differentiation and (numerical, no one has the time to implement Risch algorithm) integration
+- Numerical (symbolic?) integration
 - Latex support for algebraic parser?
